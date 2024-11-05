@@ -1,0 +1,3 @@
+I would consider it to be a lively aura as it is moderately high energy, very dancable and moderate valence.
+I think that this approach may not be the best as it may have several different genres and thus the aura of the different genres is wrongly meshed in this calculation.
+I propose that we find bubbles of similar songs and look at each individual aura that these songs have.

@@ -1,0 +1,3 @@
+HTML tags:nav, link, script, a, span, button, img, h1, p, h2, ol, il, li, div
+CSS properties: text-align, background-color, color, font, text-decoration
+I used Java to have users submit course recommendations for me and I used boot strap to make nicer tables and grids to display my data.

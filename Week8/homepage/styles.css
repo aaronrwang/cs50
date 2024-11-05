@@ -1,0 +1,29 @@
+/*Home Page*/
+.home
+{
+    background-color: lightblue;
+    text-align: center;
+    font: garamond;
+}
+.col
+{
+    text-align: left;
+}
+/* Music Page*/
+.spotifybody
+{
+    color: #1ED760;
+    background-color: black;
+}
+.spotify
+{
+    color: #1ED760;
+    text-decoration: none;
+    font: garamond;
+}
+.spotify:hover
+{
+    color: #1ED760;
+    text-decoration: underline;
+}
+
